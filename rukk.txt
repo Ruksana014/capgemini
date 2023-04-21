@@ -1,0 +1,8 @@
+hi everyone lets learn devops tools
+git
+git hub 
+maven
+nexus
+sonarqube
+devops is very popular tool in the market
+
